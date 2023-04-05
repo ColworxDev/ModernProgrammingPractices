@@ -1,0 +1,3 @@
+Hashcode method in Employee
+ is not implemented when equals 
+ is implemented that's why it failed
